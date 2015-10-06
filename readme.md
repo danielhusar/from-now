@@ -1,6 +1,6 @@
 # from-now [![Build Status](https://travis-ci.org/danielhusar/from-now.svg?branch=master)](https://travis-ci.org/danielhusar/from-now)
 
-> Get relative time (ago) like 5 seconds, 12 hours, 3 months..
+> Get relative time (ago) like 5 seconds, 12 hours, 3 months...
 
 
 ## Install
@@ -62,7 +62,7 @@ It will match the nearest key that is smaller than interval.
 5 seconds = 5 sekund
 ```
 
-You can also shorthand unit that will be used for all intervals. 
+You can also use shorthand that will be used for all intervals. 
 ```js
 var fromNow = require('from-now');
 var opts = {'seconds': 's'};

@@ -1,6 +1,6 @@
 {
   "name": "from-now",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Get time from now in nice format",
   "license": "MIT",
   "repository": "danielhusar/from-now",
