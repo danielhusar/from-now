@@ -1,7 +1,7 @@
 {
   "name": "from-now",
-  "version": "1.0.0",
-  "description": "Get time from now in nice format",
+  "version": "1.0.1",
+  "description": "Get relative time (ago) like 5 seconds, 12 hours, 3 months",
   "license": "MIT",
   "repository": "danielhusar/from-now",
   "author": {
@@ -22,7 +22,9 @@
     "time",
     "date",
     "from",
-    "now"
+    "now",
+    "ago",
+    "relative"
   ],
   "dependencies": {
     "deep-assign": "^1.0.0"
