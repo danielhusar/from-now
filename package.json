@@ -1,6 +1,6 @@
 {
   "name": "from-now",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Get relative time (ago) like 5 seconds, 12 hours, 3 months",
   "license": "MIT",
   "repository": "danielhusar/from-now",

@@ -27,13 +27,11 @@ fromNow(new Date());
 
 #### input
 
-Type: `string`, `number` or `date object`
+Type: `string`, `number` or `date object` (everything that date constructor accept)
 
-Time in past
+Time in past.
 
 #### translations
-
-##### foo
 
 Type: `object` 
 Default: `{}`
